@@ -24,6 +24,7 @@ List of awesome projects powered by fal.ai
 * [Pipecat](https://github.com/pipecat-ai/pipecat): An open source framework for real-time, multi-modal, conversational AI applications.
 * ![craftful.ai](https://craftful.ai/cf-logo_small.ico) [CraftFul](https://craftful.ai/): Your complete suite of AI Creation tools at your fingertips. Create amazing videos, movies, images, music and speech generation from simple prompts.
 * [Mindtown](https://mindtown.ai/): Flux based image generation platform.
+* [Magai](https://magai.co): The power of the worlds best LLMs and the worlds best generative image and video models combined.
 
 ## ![fal](https://fal.ai/favicon.png) fal
 
